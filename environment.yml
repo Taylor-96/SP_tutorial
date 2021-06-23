@@ -8,6 +8,8 @@ dependencies:
   - matplotlib
   - dill
   - pandas
+  - ipympl
+  - ipywidgets
   - partd
   - bokeh
   - dask
