@@ -1,7 +1,5 @@
 {
     "VoilaConfiguration": {
-	"enable_nbextensions": true,  
-	"theme": "dark",
-	"template": "gridstack"
+	"enable_nbextensions": true
   }
 }
